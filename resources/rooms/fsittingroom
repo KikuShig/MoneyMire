@@ -1,0 +1,3 @@
+{:desc "You find yourself in a round room with a pillar in the middle."
+ :exits {:north :ccloset :south :khallway :west :estairs :east :gcabinet}
+ :gold {:coin 2 :bagmoney 1 :treasuregold 1}}
